@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\ZapIt\ZapIt\bin\Debug\ZapIt.exe.config
+D:\Visual Studio Projects\ZapIt\ZapIt\bin\Debug\ZapIt.exe
+D:\Visual Studio Projects\ZapIt\ZapIt\bin\Debug\ZapIt.pdb
+D:\Visual Studio Projects\ZapIt\ZapIt\obj\Debug\ZapIt.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\ZapIt\ZapIt\obj\Debug\ZapIt.Form1.resources
+D:\Visual Studio Projects\ZapIt\ZapIt\obj\Debug\ZapIt.Properties.Resources.resources
+D:\Visual Studio Projects\ZapIt\ZapIt\obj\Debug\ZapIt.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\ZapIt\ZapIt\obj\Debug\ZapIt.exe
+D:\Visual Studio Projects\ZapIt\ZapIt\obj\Debug\ZapIt.pdb

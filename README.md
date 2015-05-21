@@ -11,7 +11,7 @@ ZapIt will connect to a TERMID or NetBios name and copy the WindowsInstaller.exe
 it will return all the software installed per-machine or per-user and grab the name and product guid. Just highlight the 
 software you want to uninstall or Zap out of the registry.  You can figure out the rest.
 
-Ty Stallard
+Ty Stallard 
 University of Michigan
 MCIT-DES-EDEM
 tyrones@med.umich.edu

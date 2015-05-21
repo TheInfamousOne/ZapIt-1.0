@@ -16,6 +16,6 @@ University of Michigan |
 MCIT-DES-EDEM |
 tyrones@med.umich.edu |
 tystallard@gmail.com |
-Published on GITHUT ON 05/21/2015 |
+Published on GITHUB ON 05/21/2015 |
 Developed on 02/18/2015
 
